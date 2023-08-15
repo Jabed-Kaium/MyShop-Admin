@@ -1,6 +1,6 @@
 # MyShop-Admin
 
-Technology: Java Swing, MySQL
+Technology used: Java Swing, MySQL
 
 It is the admin side software for the project MyShop which is a supermarket billing and product management software.
 
